@@ -63,15 +63,17 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				supplier: {
-					100: '#EBF3FA',
-					200: '#C4D9E9',
-					300: '#9DBFD9',
-					400: '#76A6C8',
-					500: '#4F8CB8',
-					600: '#3A6887',
-					700: '#264557',
-					800: '#132227',
+				markaz: {
+					50: '#f0f9f4',
+					100: '#dcf4e2',
+					200: '#bbe8c9',
+					300: '#8dd5a4',
+					400: '#56bd77',
+					500: '#32a852',
+					600: '#228a42',
+					700: '#1e6e37',
+					800: '#1d572f',
+					900: '#1a4828',
 				}
 			},
 			borderRadius: {
