@@ -14,7 +14,7 @@ const Header = ({ toggleSidebar }: { toggleSidebar: () => void }) => {
             <Menu className="h-5 w-5" />
           </Button>
           <Link to="/" className="flex items-center gap-3">
-            <img src={markazLogo} alt="Markaz" className="h-8" />
+            <img src="/lovable-uploads/3cb3fcb5-3763-46da-b19a-0454de63b7ff.png" alt="Markaz" className="h-10 w-10 rounded-xl" />
             <div className="hidden sm:block">
               <h1 className="font-semibold text-lg text-markaz-700">Supplier Academy</h1>
               <p className="text-xs text-markaz-600 font-medium">Ab har supplier banega khud mukhtar!</p>
